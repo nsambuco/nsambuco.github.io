@@ -32,7 +32,7 @@ Academic Positions
 Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
 Project: MNESYS – Multiscale integrated approach to the study of the nervous system in health and disease (Spoke 5: Mood and Psychosis).
 
-2021 – 2023 – Postdoctoral Research Fellow (Assegnista di ricerca)  
+2022 – 2023 – Postdoctoral Research Fellow (Assegnista di ricerca)  
 Department of Psychology, University of Bologna, Italy  
 Project: *Novelty and emotion in distractor processing* (PI: Prof. Maurizio Codispoti).
 
