@@ -38,12 +38,12 @@ author:
   googlescholar    : "https://scholar.google.it/citations?user=S7wa2QwAAAAJ&hl=it"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-8941-1049"
+  orcid            : #"https://orcid.org/0000-0001-8941-1049"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200881332"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57200881332"
   zotero           : # URL
 
 
