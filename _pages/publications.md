@@ -33,6 +33,8 @@ Sambuco, N., Bradley, M. M. & Lang, P. J. Narrative imagery: Emotional modulatio
 
 Sambuco, N., Mickle, A. M., Garvan, C., Cardoso, J., Johnson, A. J., Kusko, D. A., Addison, A., Glover, T. L., Staud, R., Redden, D., Goodin, B., Fillingim, R. B. & Sibille, K. T. Vulnerable dispositional traits and chronic pain: Predisposing but not predetermining. *The Journal of Pain*, 23(4), 693–705. [https://doi.org/10.1016/j.jpain.2021.11.007](https://doi.org/10.1016/j.jpain.2021.11.007)  
 
+Bradley, M. M. & Sambuco, N. Emotional memory and amygdala activation. *Frontiers in Behavioral Neuroscience*, 16, 896285. [https://doi.org/10.3389/fnbeh.2022.896285](https://doi.org/10.3389/fnbeh.2022.896285)
+
 ### 2021
 
 Sambuco, N. Sex differences in the aging brain? A voxel-based morphometry analysis of the hippocampus and the amygdala. *NeuroReport*, 32(16), 1320–1324. [https://doi.org/10.1097/WNR.0000000000001728](https://doi.org/10.1097/WNR.0000000000001728)  
