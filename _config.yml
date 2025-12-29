@@ -23,7 +23,7 @@ repository               : "nsambuco/nsambuco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nicola.jpg"
+  avatar           : "nicola.png"
   name             : "Nicola Sambuco"
   pronouns         : #"he/him"  
   bio              : "Assistant Professor"
