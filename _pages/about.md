@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an affective and cognitive neuroscientist at the University of Bari.
 
-My research focuses on the neural mechanisms of affective processing, with the goal of understanding how emotions and motivation operate in neurotypical conditions and how they change in the presence of stress, trauma, or psychological and psychiatric distress. I aim to identify vulnerability markers that can guide early interventions and inform individualised treatments.
+My research focuses on the neural mechanisms of affective processing, with the goal of understanding how emotions and motivation function in neurotypical conditions and how they are altered in schizophrenia or under life stress.
 
 A first line of work questions the idea of a single emotional circuit that mediates responses across all affective contexts. fMRI studies instead show the engagement of distinct networks depending on the type of experience (perception, imagery, anticipation), suggesting a plurality of functional systems.
 
