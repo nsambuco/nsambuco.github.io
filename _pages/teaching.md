@@ -15,6 +15,7 @@ Responsibilities: Course lead for foundational psychology (history and methods),
 2024/2025 – 2025/2026 – Artificial Intelligence and Mental Health: Theory, Methods, and Techniques for a Personalized Patient Approach  
 Doctoral School in Digital Innovation and e‑Health, University of Bari Aldo Moro.  
 Responsibilities: 8‑hour (1 CFU) course on AI applications to emotion and mental health, including theoretical models of emotion, machine‑learning–based emotion recognition, clinical applications, and ethical issues.
+
 2020/2021 – 2022/2023 – Human Higher Cortical Function (CLP 6307)  
 Department of Clinical and Health Psychology, University of Florida, USA.  
 Role: Instructor for a module in an APA‑accredited doctoral course, focusing on subjective, behavioural, and physiological responses to emotional stimuli (perception, imagery, anticipation).
