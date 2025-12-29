@@ -11,54 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+2017 – Ph.D. in Psychological Sciences  
+University of Bologna, Italy  
+Thesis: *Affective Reactions to Aversive and Appetitive Cues: Evaluative Process and Emotional Arousal*  
+Supervisor: Prof. Maurizio Codispoti (SSD M-PSI/01)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2013 – M.Sc. in Psychology (LM‑51)  
+University “G. d’Annunzio” of Chieti/Pescara, Italy  
+Grade: 110/110 cum laude  
+Thesis: *Aging and Emotional Events*  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2012 – B.Sc. in Psychological Sciences and Techniques (L‑24)  
+University “G. d’Annunzio” of Chieti/Pescara, Italy  
+Grade: 110/110 cum laude  
+Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Academic Positions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2023 – present – Tenure‑track Assistant Professor (RTD‑A)  
+Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
+Project: MNESYS – Multiscale integrated approach to the study of the nervous system in health and disease (Spoke 5: Mood and Psychosis).
 
-Publications
+2021 – 2023 – Postdoctoral Research Fellow (Assegnista di ricerca)  
+Department of Psychology, University of Bologna, Italy  
+Project: *Novelty and emotion in distractor processing* (PI: Prof. Maurizio Codispoti).
+
+2020 – 2021 – Research Scientist  
+Department of Clinical and Health Psychology, College of Public Health and Health Professions,  
+University of Florida, Gainesville, USA  
+Project: Neural circuits of emotion and motivation, with a focus on amygdala and striatal systems and their modulation by trauma.
+
+2017 – 2020 – Post‑Doctoral Fellow  
+Center for the Study of Emotion and Attention (CSEA), Department of Clinical and Health Psychology,  
+University of Florida, Gainesville, USA  
+Project: fMRI studies on neural bases of emotional perception, imagery, and anticipation.
+
+2017 – 2017 – Research Assistant  
+Center for the Study of Emotion and Attention (CSEA), University of Florida, Gainesville, USA  
+Project: Design of fMRI studies to critically test neural models of emotion.
+
+Grant Support
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2025 – Research Quality and Internationalization Fund  
+Role: Principal Investigator  
+Funder: University of Bari  
+Amount: €1,200
+
+2020 – *Exposure to COVID‑19 Trauma and Risk Factors for Developing Psychopathology*  
+Role: Principal Investigator  
+Funder: Clinical and Translational Science Institute, University of Florida, USA  
+Amount: $99,813
+
+2019 – *Transdiagnostic Trauma in Anxiety and Mood Disorder Patients: White Matter Integrity in Sensory and Emotional Processing*  
+Role: Principal Investigator  
+Funder: Center for OCD, Anxiety and Related Disorders (COARD), University of Florida, USA  
+Amount: $25,000
