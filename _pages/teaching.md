@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### University teaching
-
 2022/2023 – 2025/2026 – General Psychology 1 & 2  
 Course of study in Professional Education (healthcare qualification),  
 Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro.  
