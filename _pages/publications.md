@@ -7,6 +7,19 @@ author_profile: true
 
 ## Selected publications (first / last author)
 
+### Preprints
+
+Sambuco, N., Versace, F., Cinciripini, P.M., Robinson, J.D., Cui, Y., Bradley, M.M., Minnix, J.A. Emotion regulation or dual task? Dissociation of neural and behavioral measures. bioRxiv. [https://doi.org/10.1101/2026.04.17.719189](https://doi.org/10.1101/2026.04.17.719189)
+
+Passiatore*, R., Sambuco*, N., Stolfa*, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.1101/2026.03.04.26347600](https://doi.org/10.1101/2026.03.04.26347600)
+*share co-first authorship
+
+###Submitted/Under Review
+
+Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals.
+
+Sambuco, N., Lupo, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism.
+
 ### 2026
 
 Sambuco, N., Versace, F., Taylor, B.A. Cortical and subcortical signatures of incentive salience attribution in tobacco use disorder. *Addiction Biology*. [https://doi.org/10.1111/adb.70151](https://doi.org/10.1111/adb.70151) 
