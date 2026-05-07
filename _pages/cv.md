@@ -9,23 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-2017 – Ph.D. in Psychological Sciences  
-University of Bologna, Italy  
-Thesis: *Affective Reactions to Aversive and Appetitive Cues: Evaluative Process and Emotional Arousal*  
-Supervisor: Prof. Maurizio Codispoti (SSD M-PSI/01)
-
-2013 – M.Sc. in Psychology (LM‑51)  
-University “G. d’Annunzio” of Chieti/Pescara, Italy  
-Grade: 110/110 cum laude  
-Thesis: *Aging and Emotional Events*  
-
-2012 – B.Sc. in Psychological Sciences and Techniques (L‑24)  
-University “G. d’Annunzio” of Chieti/Pescara, Italy  
-Grade: 110/110 cum laude  
-Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*  
-
 Academic Positions
 ======
 2026/current – Assistant Professor (Tenure-Track, RTT)  
@@ -52,6 +35,24 @@ Project: fMRI studies on neural bases of emotional perception, imagery, and anti
 2017/2017 – Research Assistant  
 Center for the Study of Emotion and Attention (CSEA), University of Florida, Gainesville, USA  
 Project: Design of fMRI studies to critically test neural models of emotion.
+
+Education
+======
+2017 – Ph.D. in Psychological Sciences  
+University of Bologna, Italy  
+Thesis: *Affective Reactions to Aversive and Appetitive Cues: Evaluative Process and Emotional Arousal*  
+Supervisor: Prof. Maurizio Codispoti (SSD M-PSI/01)
+
+2013 – M.Sc. in Psychology (LM‑51)  
+University “G. d’Annunzio” of Chieti/Pescara, Italy  
+Grade: 110/110 cum laude  
+Thesis: *Aging and Emotional Events*  
+
+2012 – B.Sc. in Psychological Sciences and Techniques (L‑24)  
+University “G. d’Annunzio” of Chieti/Pescara, Italy  
+Grade: 110/110 cum laude  
+Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*  
+
 
 Grant Support
 ======
