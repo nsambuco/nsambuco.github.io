@@ -11,10 +11,10 @@ author_profile: true
 
 Sambuco, N., Versace, F., Cinciripini, P.M., Robinson, J.D., Cui, Y., Bradley, M.M., Minnix, J.A. Emotion regulation or dual task? Dissociation of neural and behavioral measures. bioRxiv. [https://doi.org/10.1101/2026.04.17.719189](https://doi.org/10.1101/2026.04.17.719189)
 
-Passiatore*, R., Sambuco*, N., Stolfa*, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.1101/2026.03.04.26347600](https://doi.org/10.1101/2026.03.04.26347600)
-*share co-first authorship
+Passiatore°, R., Sambuco°, N., Stolfa°, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.1101/2026.03.04.26347600](https://doi.org/10.1101/2026.03.04.26347600)
+°share co-first authorship
 
-###Submitted/Under Review
+###Submitted or Under Review
 
 Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals.
 
