@@ -28,7 +28,10 @@ Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*
 
 Academic Positions
 ======
-2023 – present – Assistant Professor (fixed-term, RTD‑A)  
+2026/04 – current – Assistant Professor (Tenure-Track, RTT)  
+Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
+
+2023/02 – 2026/02 – Assistant Professor (fixed-term, RTD‑A)  
 Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
 Project: MNESYS – Multiscale integrated approach to the study of the nervous system in health and disease (Spoke 5: Mood and Psychosis).
 
