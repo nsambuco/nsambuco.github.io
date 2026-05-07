@@ -7,6 +7,12 @@ author_profile: true
 
 ## Selected publications (first / last author)
 
+### 2026
+
+Sambuco, N., Versace, F., Taylor, B.A. Cortical and subcortical signatures of incentive salience attribution in tobacco use disorder. *Addiction Biology*.[https://doi.org/10.1111/adb.70151](https://doi.org/10.1111/adb.70151) 
+
+Sambuco, N., Scaramuzzi, G. F., Gasparre, D., Cornacchia, E., Bonvino, A., Antonucci, L. A., Pergola, G. & Taurisano, P. Baseline brain volumes predict cognitive decline more robustly than atrophy rates: Evidence for brain reserve. *Cortex*. [https://doi.org/10.1016/j.cortex.2026.03.022] (https://doi.org/10.1016/j.cortex.2026.03.022)
+
 ### 2025
 
 Sambuco, N., Bradley, M. M. & Lang, P. J. Amygdala structure and function: Association with transdiagnostic trauma severity in anxiety and mood disorder patients. *Psychophysiology*, 62(3). [https://doi.org/10.1111/psyp.70027](https://doi.org/10.1111/psyp.70027)  
