@@ -9,9 +9,9 @@ author_profile: true
 
 ### 2026
 
-Sambuco, N., Versace, F., Taylor, B.A. Cortical and subcortical signatures of incentive salience attribution in tobacco use disorder. *Addiction Biology*.[https://doi.org/10.1111/adb.70151](https://doi.org/10.1111/adb.70151) 
+Sambuco, N., Versace, F., Taylor, B.A. Cortical and subcortical signatures of incentive salience attribution in tobacco use disorder. *Addiction Biology*. [https://doi.org/10.1111/adb.70151](https://doi.org/10.1111/adb.70151) 
 
-Sambuco, N., Scaramuzzi, G. F., Gasparre, D., Cornacchia, E., Bonvino, A., Antonucci, L. A., Pergola, G. & Taurisano, P. Baseline brain volumes predict cognitive decline more robustly than atrophy rates: Evidence for brain reserve. *Cortex*. [https://doi.org/10.1016/j.cortex.2026.03.022] (https://doi.org/10.1016/j.cortex.2026.03.022)
+Sambuco, N., Scaramuzzi, G. F., Gasparre, D., Cornacchia, E., Bonvino, A., Antonucci, L. A., Pergola, G. & Taurisano, P. Baseline brain volumes predict cognitive decline more robustly than atrophy rates: Evidence for brain reserve. *Cortex*. [https://doi.org/10.1016/j.cortex.2026.03.022](https://doi.org/10.1016/j.cortex.2026.03.022)
 
 ### 2025
 
