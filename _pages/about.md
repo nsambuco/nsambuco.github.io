@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an affective and cognitive neuroscientist at the University of Bari.
+I'm an affective neuroscientist at the University of Bari.
 
 My research focuses on the neural mechanisms of affective processing, with the goal of understanding how emotions and motivation function in neurotypical conditions and how they are altered in schizophrenia or under life stress.
 
