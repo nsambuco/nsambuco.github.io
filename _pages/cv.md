@@ -28,28 +28,28 @@ Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*
 
 Academic Positions
 ======
-2026/04 – current – Assistant Professor (Tenure-Track, RTT)  
+2026/current – Assistant Professor (Tenure-Track, RTT)  
 Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
 
-2023/02 – 2026/02 – Assistant Professor (fixed-term, RTD‑A)  
+2023/2026 – Assistant Professor (fixed-term, RTD‑A)  
 Department of Translational Biomedicine and Neuroscience (DiBraiN), University of Bari Aldo Moro, Italy  
 Project: MNESYS – Multiscale integrated approach to the study of the nervous system in health and disease (Spoke 5: Mood and Psychosis).
 
-2022 – 2023 – Postdoctoral Research Fellow (Assegnista di ricerca)  
+2022/2023 – Postdoctoral Research Fellow (Assegnista di ricerca)  
 Department of Psychology, University of Bologna, Italy  
 Project: *Novelty and emotion in distractor processing* (PI: Prof. Maurizio Codispoti).
 
-2020 – 2021 – Research Scientist  
+2020/2021 – Research Scientist  
 Department of Clinical and Health Psychology, College of Public Health and Health Professions,  
 University of Florida, Gainesville, USA  
 Project: Neural circuits of emotion and motivation, with a focus on amygdala and striatal systems and their modulation by trauma.
 
-2017 – 2020 – Post‑Doctoral Fellow  
+2017/2020 – Post‑Doctoral Fellow  
 Center for the Study of Emotion and Attention (CSEA), Department of Clinical and Health Psychology,  
 University of Florida, Gainesville, USA  
 Project: fMRI studies on neural bases of emotional perception, imagery, and anticipation.
 
-2017 – 2017 – Research Assistant  
+2017/2017 – Research Assistant  
 Center for the Study of Emotion and Attention (CSEA), University of Florida, Gainesville, USA  
 Project: Design of fMRI studies to critically test neural models of emotion.
 
