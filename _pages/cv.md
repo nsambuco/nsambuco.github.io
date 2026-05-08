@@ -56,11 +56,6 @@ Thesis: *Emotional Memory in Healthy Aging and Alzheimer’s Disease*
 
 Grant Support
 ======
-2025 – Research Quality and Internationalization Fund  
-Role: Principal Investigator  
-Funder: University of Bari  
-Amount: €1,200
-
 2020 – *Exposure to COVID‑19 Trauma and Risk Factors for Developing Psychopathology*  
 Role: Principal Investigator  
 Funder: Clinical and Translational Science Institute, University of Florida, USA  
