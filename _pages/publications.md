@@ -11,18 +11,18 @@ author_profile: true
 
 Sambuco, N., Versace, F., Cinciripini, P.M., Robinson, J.D., Cui, Y., Bradley, M.M., Minnix, J.A. Emotion regulation or dual task? Dissociation of neural and behavioral measures. bioRxiv. [https://doi.org/10.64898/2026.04.17.719189](https://doi.org/10.64898/2026.04.17.719189)
 
-Dang°, V., Sambuco°, N., Yammine, L., Versace, F. Do GLP-1 receptor agonists alter brain responses to reward-related cues? A systematic review. bioRxiv. [https://doi.org/10.64898/2026.01.31.702984](https://doi.org/10.64898/2026.01.31.702984)
-°share co-first authorship
+Dang#, V., Sambuco#, N., Yammine, L., Versace, F. Do GLP-1 receptor agonists alter brain responses to reward-related cues? A systematic review. bioRxiv. [https://doi.org/10.64898/2026.01.31.702984](https://doi.org/10.64898/2026.01.31.702984)
+#shared authorship 
 
-Passiatore°, R., Sambuco°, N., Stolfa°, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.64898/2026.03.04.26347600](https://doi.org/10.64898/2026.03.04.26347600)
-°share co-first authorship
+Passiatore#, R., Sambuco#, N., Stolfa#, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.64898/2026.03.04.26347600](https://doi.org/10.64898/2026.03.04.26347600)
+#shared authorship 
 
 ### Submitted or Under Review
 
 Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals.
 
-Sambuco°, N., Lupo°, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism.
-°share co-first authorship
+Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism.
+#shared authorship 
 
 ### 2026
 
@@ -74,4 +74,4 @@ Sambuco, N., Costa, V. D., Lang, P. J. & Bradley, M. M. Aversive perception in a
 
 ### 2018
 
-Padmala#, S., Sambuco#, N., Codispoti, M. & Pessoa, L. Attentional capture by simultaneous pleasant and unpleasant emotional distractors. *Emotion*, 18(8), 1189–1194. [https://doi.org/10.1037/emo0000401](https://doi.org/10.1037/emo0000401)  
+Padmala#, S., Sambuco#, N., Codispoti, M. & Pessoa, L. Attentional capture by simultaneous pleasant and unpleasant emotional distractors. *Emotion*, 18(8), 1189–1194. [https://doi.org/10.1037/emo0000401](https://doi.org/10.1037/emo0000401) #shared authorship 
