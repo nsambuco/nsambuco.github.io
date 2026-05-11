@@ -9,6 +9,8 @@ author_profile: true
 
 ### Preprints
 
+Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals. bioRxiv. [https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1](https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1)
+
 Sambuco, N., Versace, F., Cinciripini, P.M., Robinson, J.D., Cui, Y., Bradley, M.M., Minnix, J.A. Emotion regulation or dual task? Dissociation of neural and behavioral measures. bioRxiv. [https://doi.org/10.64898/2026.04.17.719189](https://doi.org/10.64898/2026.04.17.719189)
 
 Dang#, V., Sambuco#, N., Yammine, L., Versace, F. Do GLP-1 receptor agonists alter brain responses to reward-related cues? A systematic review. bioRxiv. [https://doi.org/10.64898/2026.01.31.702984](https://doi.org/10.64898/2026.01.31.702984)
@@ -18,8 +20,6 @@ Passiatore#, R., Sambuco#, N., Stolfa#, G., Antonucci, L.A., Bertolino, A., Blas
 #shared authorship 
 
 ### Submitted or Under Review
-
-Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals.
 
 Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism.
 #shared authorship 
