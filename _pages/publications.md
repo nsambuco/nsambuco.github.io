@@ -8,21 +8,20 @@ author_profile: true
 ## Selected publications (first / last author)
 
 ### Preprints
+#shared authorship 
+
+Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism. [https://www.biorxiv.org/content/10.64898/2026.05.14.724267v1](https://www.biorxiv.org/content/10.64898/2026.05.14.724267v1)
 
 Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals. bioRxiv. [https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1](https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1)
 
 Sambuco, N., Versace, F., Cinciripini, P.M., Robinson, J.D., Cui, Y., Bradley, M.M., Minnix, J.A. Emotion regulation or dual task? Dissociation of neural and behavioral measures. bioRxiv. [https://doi.org/10.64898/2026.04.17.719189](https://doi.org/10.64898/2026.04.17.719189)
 
 Dang#, V., Sambuco#, N., Yammine, L., Versace, F. Do GLP-1 receptor agonists alter brain responses to reward-related cues? A systematic review. bioRxiv. [https://doi.org/10.64898/2026.01.31.702984](https://doi.org/10.64898/2026.01.31.702984)
-#shared authorship 
+
 
 Passiatore#, R., Sambuco#, N., Stolfa#, G., Antonucci, L.A., Bertolino, A., Blasi, G., Fazio, L., Goldman, A.L., Grassi, L., Grasso, D., Lupo, A., Mazza, C., Monteleone, A.M., Rampino, A., Ulrich, W.S., Whitman, E.T., Hariri, A.R., Weinberger, D.R., the Apulian Network on Risk for Psychosis, Pergola, G. Estimated head motion contributes to case-control magnetic resonance imaging morphometry differences in schizophrenia. medRxiv. [https://doi.org/10.64898/2026.03.04.26347600](https://doi.org/10.64898/2026.03.04.26347600)
 #shared authorship 
 
-### Submitted or Under Review
-
-Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism.
-#shared authorship 
 
 ### 2026
 
