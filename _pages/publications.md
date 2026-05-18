@@ -10,7 +10,7 @@ author_profile: true
 ### Preprints
 #shared authorship 
 
-Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism. [https://www.biorxiv.org/content/10.64898/2026.05.14.724267v1](https://www.biorxiv.org/content/10.64898/2026.05.14.724267v1)
+Sambuco#, N., Lupo#, A., Hawkins, P.C.T., Selvaggi, P., Antonucci, L.A., Bertolino, A., Blasi, G., …  Mehta, M.A., Pergola, G. Reproducible human reward imaging phenotypes exhibit differential sensitivity to dopamine D2 receptor antagonism. [https://www.biorxiv.org/content/10.64898/2026.05.14.724267v2](https://www.biorxiv.org/content/10.64898/2026.05.14.724267v2)
 
 Sambuco, N., Versace, F. What a stimulus predicts, not what it depicts, determines striatal reward signals. bioRxiv. [https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1](https://www.biorxiv.org/content/10.64898/2026.05.10.724107v1)
 
